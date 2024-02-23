@@ -2,9 +2,9 @@
 Team9
 
 Links:
-[This is link to our website] 
-[This is link to repo] 
-[This is link to Figma design]  
+Link to our website
+Link to repo 
+Link to Figma design 
 
 Niklas
 -
